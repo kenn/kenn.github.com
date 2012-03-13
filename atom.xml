@@ -4,13 +4,22 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://kenn.github.com/atom.xml" rel="self"/>
   <link href="http://kenn.github.com/"/>
-  <updated>2012-03-13T14:48:56-07:00</updated>
+  <updated>2012-03-13T15:06:34-07:00</updated>
   <id>http://kenn.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Kenn Ejima]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://kenn.github.com/blog/2012/03/13/hello-world/"/>
+    <updated>2012-03-13T15:05:00-07:00</updated>
+    <id>http://kenn.github.com/blog/2012/03/13/hello-world</id>
+    <content type="html"><![CDATA[<p>I don&#8217;t even remember how many blogs I have created so far, but anyway, here comes yet another one.</p>
+]]></content>
+  </entry>
   
 </feed>
